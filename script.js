@@ -1,4 +1,4 @@
-const apiLocUrl = 'http://api.openweathermap.org/geo/1.0/';
+const apiLocUrl = 'https://api.openweathermap.org/geo/1.0/';
 const apiUrl = 'https://api.openweathermap.org/data/2.5/';
 const apiKey = 'be2ea8423e0031faf9ece172477a5a27';
 
